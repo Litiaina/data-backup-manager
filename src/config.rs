@@ -14,7 +14,7 @@ pub fn create_default_config(path: &Path) -> Result<()> {
 # To see the output, you must run this executable from an existing command prompt (cmd.exe or PowerShell).
 # The '#![windows_subsystem = "windows"]' directive in the code means a new console window
 # will NOT be created if you just double-click the .exe.
-debug = false
+debug = true
 
 [backup]
 # Path to the directory you want to back up.
