@@ -27,7 +27,7 @@ cd data-backup-manager
 
 Run the binary directly after building. Note that this is a background task—no tray icons or windows will be visible when debug mode is disabled. Automated data backup will still run. During execution it will create log folder located on where the executable resides.
 
-## Configuration:
+## Configuration
 
 During execution debug mode is set to true as default to correctly debug and configure the source path, destination path and intervals.
 
